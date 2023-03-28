@@ -27,7 +27,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer, currently deepening in Microservices 🚀
-- :hourglass_flowing_sand: Exploring: SOLID, Design Pattern, TDD, Clean Architecture
+- :hourglass_flowing_sand: Exploring: SOLID, Design Pattern, TDD, Clean Architecture, Docker, Kubernetes, CD/CI
 - :zap: Hobbies: Film, Shows, Games, Reading, Music
 
 <h2 align="left">:heart: Let's get connected:</h2>
