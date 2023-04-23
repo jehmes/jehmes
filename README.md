@@ -26,7 +26,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer, currently deepening in Microservices and DevOps 🚀
+- :computer: I'm a Fullstack Developer, currently deepening in Microservices, Message Brokers 🚀
 - :hourglass_flowing_sand: Exploring: Clean Architecture, Docker, Kubernetes, CD/CI
 - :zap: Hobbies: Film, Shows, Games, Reading, Music
 
